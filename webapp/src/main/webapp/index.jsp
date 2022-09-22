@@ -5,4 +5,4 @@
 <p>This is devops projects, its developed by own ,its was used for testing purpose</p> 
 <p>jenkins created the war file and copy the jenkins server location</p>
 <p>ansible trigar the yml file and copy th war file to tomcat server</p>
- 
+<p>hiiiiiiiiiiiiii</p>
