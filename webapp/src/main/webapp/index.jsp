@@ -6,4 +6,4 @@
 <p>jenkins created the war file and copy the jenkins server location</p>
 <p>ansible trigar the yml file and copy th war file to tomcat server</p>
 
-<h1>Sucess</h1>
+<h1>This project maven based</h1>
